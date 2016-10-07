@@ -1,4 +1,4 @@
-#To access outlook Inbox and get email attachment downloaded for specific attachmnet file name pattern
+#To access outlook Inbox and get email attachment downloaded for specific attachment file name pattern
 
 
 $olFolderInbox =6
